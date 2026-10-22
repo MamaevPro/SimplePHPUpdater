@@ -8,4 +8,3 @@ PHP_VER=$(php -v | sed -nE '1s/^PHP ([0-9]+\.[0-9]+).*/\1/p')
 
 yum update
 yum install -y --only-upgrade "php${PHP_VER}*"
-php -v
