@@ -1,4 +1,4 @@
-# Simple PHP Updater 2026
+# Simple PHP Updater
 ## apt
     curl -fsSL https://raw.githubusercontent.com/MamaevPro/SimplePHPUpdater/refs/heads/main/update_apt.sh | sudo bash
 ## yum
